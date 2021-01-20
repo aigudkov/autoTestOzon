@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: ru.ozon.FirstTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 140.475 s <<< FAILURE! - in ru.ozon.FirstTest
+secondTest(ru.ozon.FirstTest)  Time elapsed: 54.524 s  <<< FAILURE!
+java.lang.AssertionError: Кол-во товаров меньше 3, либо цена некорректна
+	at ru.ozon.FirstTest.secondTest(FirstTest.java:212)
+
